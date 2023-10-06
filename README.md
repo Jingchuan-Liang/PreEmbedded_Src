@@ -1,2 +1,2 @@
 # PreEmbedded_Src
-Preliminary Embedded Programming Resource for STM32 with Makefile tool chain
+Preliminary Embedded Programming Projects for STM32 with Makefile tool chain
